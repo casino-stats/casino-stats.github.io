@@ -26,7 +26,7 @@ Solo en tu teléfono. Yo no tengo copia de tus datos. Puedes leer los detalles e
 
 ### ¿La app necesita internet?
 
-No. Funciona sin conexión, porque todo se guarda en tu teléfono.
+No. Funciona sin conexión, porque todo se guarda en tu teléfono. Solo los enlaces de Ajustes, en "Acerca de", necesitan internet: abren este sitio en el navegador de tu teléfono.
 
 ### ¿Cómo borro todos mis datos?
 

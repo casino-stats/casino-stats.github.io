@@ -1,6 +1,6 @@
 # Aviso de privacidad de Casino Stats
 
-Última actualización: 4 de octubre de 2026
+Última actualización: 5 de octubre de 2026
 
 ## En pocas palabras
 
@@ -74,6 +74,8 @@ Para borrar por completo todos los datos de la app, desinstálala: se elimina la
 - No tiene cuentas de usuario.
 
 En la sección de Ayuda hay un número de teléfono de apoyo. Al tocarlo, tu teléfono te ofrece llamar a ese número; la app no envía ninguna información.
+
+En la sección Acerca de hay enlaces a este aviso y a la página de soporte. Al tocarlos, se abren en el navegador de tu teléfono; la app no envía ninguna información.
 
 Si en tu iPhone aceptaste compartir análisis con los desarrolladores, Apple puede enviarme reportes de fallas de la app. Los envía Apple, no la app, y son datos técnicos de la falla, no lo que anotas.
 
